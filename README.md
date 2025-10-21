@@ -1,5 +1,11 @@
 # 🕶️ LAB: Inactive Key Rotation Check 
 
+<img width="1497" height="1495" alt="image" src="https://github.com/user-attachments/assets/5e458c85-5902-41a7-aed1-650515a2a0d3" />
+
+<img width="380" height="800" alt="image" src="https://github.com/user-attachments/assets/e6478ae3-cead-45ba-8916-fea57834eb21" />
+
+<img width="640" height="352" alt="image" src="https://github.com/user-attachments/assets/65fe91f0-3fd6-4e2c-9b89-024e66f4d5c9" />
+
 > “Do you take the blue pill and let stale keys linger forever…  
 > Or do you take the red pill and see how deep inactive access goes?”  
 > — Morpheus, Chief GRC Architect
