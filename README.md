@@ -1,4 +1,4 @@
-# 🕶️ LAB: Inactive Key Rotation Check 
+# 🕶️ LAB: AWS Inactive Key Rotation Check 
 
 <img width="1497" height="1495" alt="image" src="https://github.com/user-attachments/assets/5e458c85-5902-41a7-aed1-650515a2a0d3" />
 
